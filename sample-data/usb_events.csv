@@ -1,0 +1,3 @@
+timestamp,source,event,details
+2026-05-14 14:09:03,Windows USB,Device Connected,"SanDisk Ultra; USBSTOR\\Disk&Ven_SanDisk&Prod_Ultra&Rev_1.00\\4C530001230514101274"
+2026-05-14 14:15:27,Windows USB,Device Removed,"SanDisk Ultra; USBSTOR\\Disk&Ven_SanDisk&Prod_Ultra&Rev_1.00\\4C530001230514101274"
