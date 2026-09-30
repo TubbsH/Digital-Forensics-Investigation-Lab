@@ -1,0 +1,14 @@
+timestamp,source,event,details
+2026-05-14 13:48:09,Chrome,Browser Visit,Company intranet dashboard
+2026-05-14 13:51:22,File System,File Opened,C:\\Users\\jblake\\Documents\\meeting_notes.docx
+2026-05-14 14:02:11,Chrome,Search,copy large files to usb windows
+2026-05-14 14:03:37,Chrome,Browser Visit,Article about transferring large files
+2026-05-14 14:05:20,Chrome,Browser Visit,Internal Orion project portal
+2026-05-14 14:06:42,File System,Directory Accessed,C:\\Projects\\Orion_Project
+2026-05-14 14:07:15,File System,File Opened,C:\\Projects\\Orion_Project\\orion_financials.xlsx
+2026-05-14 14:08:02,File System,File Opened,C:\\Projects\\Orion_Project\\client_list.csv
+2026-05-14 14:09:03,Windows USB,Device Connected,SanDisk Ultra; USBSTOR\\Disk&Ven_SanDisk&Prod_Ultra&Rev_1.00\\4C530001230514101274
+2026-05-14 14:10:18,File System,File Copied,C:\\Projects\\Orion_Project\\orion_financials.xlsx
+2026-05-14 14:11:06,File System,File Copied,C:\\Projects\\Orion_Project\\client_list.csv
+2026-05-14 14:15:27,Windows USB,Device Removed,SanDisk Ultra; USBSTOR\\Disk&Ven_SanDisk&Prod_Ultra&Rev_1.00\\4C530001230514101274
+2026-05-14 14:17:44,Chrome,Browser Visit,Company email portal
