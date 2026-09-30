@@ -1,0 +1,4 @@
+File:    sample-data/file_activity.csv
+Size:    571 bytes
+MD5:     be186842cf075a350673cb4c9d324a14
+SHA-256: a6c28b5f3360fd2ce5fb88b4f1f4ed6db316465862835739d0eb0e07e6b43233
